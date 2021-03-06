@@ -1,0 +1,560 @@
+[
+    {
+        "id": 1,
+        "name": "Хіт FM",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fxit_fm.png",
+        "stream": "http://online-hitfm.tavrmedia.ua/HitFM",
+        "country": 2,
+        "favorites": 1,
+        "listened": 2
+    },
+    {
+        "id": 2,
+        "name": "Люкс ФМ",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Flux_fm.png",
+        "stream": "http://icecast.luxnet.ua/lux_mp3",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 3,
+        "name": "Русское Радио Україна",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Frus_radio_ua.png",
+        "stream": "http://online-rusradio.tavrmedia.ua/RusRadio",
+        "country": 2,
+        "favorites": 1,
+        "listened": 0
+    },
+    {
+        "id": 4,
+        "name": "Kiss FM",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fkiss_fm.png",
+        "stream": "http://online-kissfm.tavrmedia.ua/KissFM_Live",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 5,
+        "name": "NRJ (Европа Плюс)",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fnjr.png",
+        "stream": "http://cast.nrj.in.ua/nrj",
+        "country": 2,
+        "favorites": 1,
+        "listened": 0
+    },
+    {
+        "id": 6,
+        "name": "Радіо Relax",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Frelax.png",
+        "stream": "http://online-radiorelax.tavrmedia.ua/RadioRelax",
+        "country": 2,
+        "favorites": 1,
+        "listened": 0
+    },
+    {
+        "id": 7,
+        "name": "Радио Пятница",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fpjatnica.png",
+        "stream": "http://cast.radiopyatnica.com.ua/radiopyatnica",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 8,
+        "name": "Radio ROKS",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Froks.png",
+        "stream": "http://online-radioroks.tavrmedia.ua/RadioROKS",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 9,
+        "name": "Перец FM",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fperez.png",
+        "stream": "http://radio.urg.com.ua:80/radio-stilnoe",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 10,
+        "name": "DJ FM",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fdj_fm.png",
+        "stream": "http://media2.brg.ua:8000/djfm_h",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 11,
+        "name": "Lounge Fm",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Flounge_fm.png",
+        "stream": "http://cast.loungefm.com.ua/loungefm",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 12,
+        "name": "Авторадио",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fauto_radio.png",
+        "stream": "http://cast.radiogroup.com.ua/avtoradio.aac",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 13,
+        "name": "Радіо НВ",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fradio_nv.png",
+        "stream": "http://91.218.212.84:8000/radionv.mp3",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 14,
+        "name": "DJsRadio",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fdjsradio.png",
+        "stream": "http://djsradio.com.ua:8000/listen",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 15,
+        "name": "Ретро FM",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fretro_fm.png",
+        "stream": "http://cast.radiogroup.com.ua:8000/retro",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 16,
+        "name": "РокРадіо",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Frock_radio.png",
+        "stream": "http://193.151.241.240:8002/rockradio",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 17,
+        "name": "MFM Station",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fmfm.png",
+        "stream": "http://radio.mfm.ua:8080/online128",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 18,
+        "name": "Happy Radio",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fhappy.png",
+        "stream": "http://getradio.me/happyradio128",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 19,
+        "name": "Львівська хвиля",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Flvivska_hvulya.png",
+        "stream": "http://onair.lviv.fm:8000/lviv32.fm",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 20,
+        "name": "Наше Радио",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fnashe.png",
+        "stream": "http://cast.radiogroup.com.ua/nashe",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 21,
+        "name": "Мелодія FM",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fmelodiya_fm.png",
+        "stream": "http://online-melodiafm.tavrmedia.ua/MelodiaFM",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 22,
+        "name": "Закарпаття FM",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fzakarpattya_fm.png",
+        "stream": "http://195.234.148.51:8000/;stream.mp3?39",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 23,
+        "name": "Power FM",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fpower_fm.png",
+        "stream": "http://media2.brg.ua:8000/power_h",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 24,
+        "name": "Просто Радио",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fprosto_radio.png",
+        "stream": "http://62.80.190.246:8000/PRK128",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 25,
+        "name": "Одесса Мама",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fodessa_mama.png",
+        "stream": "http://online.odessa.fm:8000/stream",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 26,
+        "name": "TRANCE IS STAR",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Ftrance_is_star.png",
+        "stream": "http://eu3.radioboss.fm:8131/stream",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 27,
+        "name": "Країна ФМ",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fkraina_fm.png",
+        "stream": "http://live.radioec.com.ua:8000/kiev",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 28,
+        "name": "Джем ФМ",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fdzhem.png",
+        "stream": "http://cast.radiogroup.com.ua:8000/jamfm",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 29,
+        "name": "Радіо Сокаль",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fsokal.png",
+        "stream": "http://online.sokal.lviv.ua:8000/sokalfm96.mp3",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 30,
+        "name": "Informator FM",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Finformator.png",
+        "stream": "http://main.inf.fm:9101/;stream.nsv",
+        "country": 2,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 31,
+        "name": "Европа Плюс",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Feuropa_plus.png",
+        "stream": "http://ep128.streamr.ru",
+        "country": 3,
+        "favorites": 1,
+        "listened": 0
+    },
+    {
+        "id": 32,
+        "name": "Радио Рекорд",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fradio_record.png",
+        "stream": "http://air.radiorecord.ru:8101/rr_320",
+        "country": 3,
+        "favorites": 1,
+        "listened": 0
+    },
+    {
+        "id": 33,
+        "name": "Ретро ФМ",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fretro_fm.png",
+        "stream": "http://retro256.streamr.ru/",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 34,
+        "name": "Русское Радио",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Frus_radio_rus.png",
+        "stream": "https://rusradio.hostingradio.ru/rusradio96.aacp?",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 35,
+        "name": "Радио Energy",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fenergy_rus.png",
+        "stream": "http://ic2.101.ru:8000/v1_1",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 36,
+        "name": "Хит FM",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fxit_fm_rus.png",
+        "stream": "https://hitfm.hostingradio.ru/hitfm96.aacp",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 37,
+        "name": "Зайцев ФМ",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fzaycev_rus.png",
+        "stream": "https://zaycevfm.cdnvideo.ru/ZaycevFM_pop_128.mp3",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 38,
+        "name": "Русская Волна",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Frus_volna_rus.png",
+        "stream": "http://ru1.volna.top/RuWave48",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 39,
+        "name": "Наше Радио",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fnashe_rus.png",
+        "stream": "http://nashe.streamr.ru/nashe-128.mp3",
+        "country": 3,
+        "favorites": 1,
+        "listened": 0
+    },
+    {
+        "id": 40,
+        "name": "Радио DFM",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fdfm_rus.png",
+        "stream": "https://dfm.hostingradio.ru/dfm96.aacp",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 41,
+        "name": "Relax FM",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Frelax_rus.png",
+        "stream": "http://ic3.101.ru:8000/v13_1?",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 42,
+        "name": "Радио Шансон",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fshanson_rus.png",
+        "stream": "http://chanson.hostingradio.ru:8041/chanson64.mp3",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 43,
+        "name": "Радио Русские Песни",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Frus_pesni_rus.png",
+        "stream": "http://listen.rusongs.ru:8005/ru-mp3-128",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 44,
+        "name": "Радио Дача",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fdacha_rus.png",
+        "stream": "http://listen.vdfm.ru:8000/dacha",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 45,
+        "name": "Вести ФМ",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fvesti_rus.png",
+        "stream": "http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 46,
+        "name": "Радио 7",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fradio_7_rus.png",
+        "stream": "http://variant.fm:8000/RADIO7-192",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 47,
+        "name": "Радио Маяк",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fmayak_rus.png",
+        "stream": "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 48,
+        "name": "Радио Maximum",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fmaximum_rus.png",
+        "stream": "https://maximum.hostingradio.ru/maximum96.aacp",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 49,
+        "name": "Атмосфера лаундж",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Flaundzh_rus.png",
+        "stream": "http://185.53.169.128:8000/192",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 50,
+        "name": "Like FM",
+        "image": "Спокойное Радио",
+        "stream": "http://ic3.101.ru:8000/v12_1",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 51,
+        "name": "Дорожное радио",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fdorozhnoe_radio.png",
+        "stream": "http://dorognoe.hostingradio.ru:8000/dorognoe",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 52,
+        "name": "Маруся ФМ",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fmarussya_fm.png",
+        "stream": "http://radio-holding.ru:9000/marusya_aac_64",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 53,
+        "name": "Юмор ФМ",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fyumor_fm.png",
+        "stream": "http://ic5.101.ru:8000/a102",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 54,
+        "name": "Спокойное Радио",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fspokoinoe_radio.png",
+        "stream": "http://listen1.myradio24.com:9000/6262",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 55,
+        "name": "Мега Радио",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fmega_radio.png",
+        "stream": "http://stream.megaradio.pro/MegaRadio48",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 56,
+        "name": "Эхо Москвы",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fecho_msk.png",
+        "stream": "http://ice912.echo.msk.ru:9120/stream2",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 57,
+        "name": "ХАЙП FM",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fhype_fm.png",
+        "stream": "http://hfm.volna.top/HypeFM",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 58,
+        "name": "Comedy Radio",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fcomedy_radio.png",
+        "stream": "http://ic7.101.ru:8000/a202",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 59,
+        "name": "Новое Радио",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fnovoe_radio.png",
+        "stream": "http://icecast.newradio.cdnvideo.ru/newradio3",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 60,
+        "name": "Пионер FM",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fpioner_fm.png",
+        "stream": "http://radio.dline-media.com/ppr128.mp3",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 61,
+        "name": "Кекс FM",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fkeksfm.png",
+        "stream": "http://emg02.hostingradio.ru/keksfm64.aac",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    },
+    {
+        "id": 62,
+        "name": "Радио Ваня",
+        "image": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/radio/img%2Fradio-vanya.png",
+        "stream": "http://194.67.200.84:8000/radiovanya",
+        "country": 3,
+        "favorites": 0,
+        "listened": 0
+    }
+]
